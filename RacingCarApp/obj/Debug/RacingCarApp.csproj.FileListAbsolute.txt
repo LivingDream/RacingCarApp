@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\RacingCarApp\bin\Debug\RacingCarApp.exe.config
+C:\Users\user\source\repos\RacingCarApp\bin\Debug\RacingCarApp.exe
+C:\Users\user\source\repos\RacingCarApp\bin\Debug\RacingCarApp.pdb
+C:\Users\user\source\repos\RacingCarApp\obj\Debug\RacingCarApp.csprojAssemblyReference.cache
+C:\Users\user\source\repos\RacingCarApp\obj\Debug\RacingCarApp.Properties.Resources.resources
+C:\Users\user\source\repos\RacingCarApp\obj\Debug\RacingCarApp.csproj.GenerateResource.cache
+C:\Users\user\source\repos\RacingCarApp\obj\Debug\RacingCarApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RacingCarApp\obj\Debug\RacingCarApp.exe
+C:\Users\user\source\repos\RacingCarApp\obj\Debug\RacingCarApp.pdb
+C:\Users\user\source\repos\RacingCarApp\obj\Debug\RacingCarApp.MainMenu.resources
+C:\Users\user\source\repos\RacingCarApp\obj\Debug\RacingCarApp.OptionMenu.resources
+C:\Users\user\source\repos\RacingCarApp\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\source\repos\RacingCarApp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\source\repos\RacingCarApp\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\source\repos\RacingCarApp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\source\repos\RacingCarApp\obj\Debug\RacingCarApp.csproj.ResolveComReference.cache
+C:\Users\user\source\repos\RacingCarApp\obj\Debug\RacingCarApp.form.resources
