@@ -15,3 +15,43 @@ C:\Users\user\source\repos\RacingCarApp\obj\Debug\Interop.WMPLib.dll
 C:\Users\user\source\repos\RacingCarApp\obj\Debug\AxInterop.WMPLib.dll
 C:\Users\user\source\repos\RacingCarApp\obj\Debug\RacingCarApp.csproj.ResolveComReference.cache
 C:\Users\user\source\repos\RacingCarApp\obj\Debug\RacingCarApp.form.resources
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\bin\Debug\RacingCarApp.exe.config
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\bin\Debug\RacingCarApp.exe
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\bin\Debug\RacingCarApp.pdb
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\bin\Debug\Interop.WMPLib.dll
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\obj\Debug\RacingCarApp.csprojAssemblyReference.cache
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\obj\Debug\Interop.WMPLib.dll
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\obj\Debug\RacingCarApp.csproj.ResolveComReference.cache
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\obj\Debug\RacingCarApp.mainMenu.resources
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\obj\Debug\RacingCarApp.OptionMenu.resources
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\obj\Debug\RacingCarApp.form.resources
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\obj\Debug\RacingCarApp.Properties.Resources.resources
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\obj\Debug\RacingCarApp.csproj.GenerateResource.cache
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\obj\Debug\RacingCarApp.csproj.CoreCompileInputs.cache
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\obj\Debug\RacingCarApp.exe
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\obj\Debug\RacingCarApp.pdb
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\bin\Debug\Resources\exit button.png
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\bin\Debug\Resources\full valume.png
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\bin\Debug\Resources\game over.png
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\bin\Debug\Resources\no sound.png
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\bin\Debug\Resources\press start menu.png
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\bin\Debug\Resources\racing cars 1.png
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\bin\Debug\Resources\racing cars 2.png
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\bin\Debug\Resources\racing cars 3.png
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\bin\Debug\Resources\racing cars.png
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\bin\Debug\Resources\setting menu.png
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\bin\Debug\Resources\yellow racing car.png
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\bin\Debug\Resources\space inviader.png
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\bin\Debug\Resources\PixelCarRacerLogo.png
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\bin\Debug\Resources\exitsign.png
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\bin\Debug\Resources\Settingbtn.png
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\bin\Debug\Resources\back_btn.png
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\bin\Debug\Resources\slap_n1PUGaN.mp3
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\bin\Debug\Resources\8D_Lil_Tjay_-_Losses_Official_Video.mp3
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\bin\Debug\Resources\button-3.wav
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\bin\Debug\Resources\melodyloops-preview-happy-days-ahead-2m30s.mp3
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\bin\Debug\Resources\button-09.wav
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\bin\Debug\Resources\button-10.wav
+C:\Users\bardo\source\repos\RacingCarApp\RacingCarApp\bin\Debug\Resources\speaker-volume-button-pngrepo-com.png

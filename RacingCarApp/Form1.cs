@@ -25,21 +25,21 @@ namespace RacingCarApp
         private void btn_start_MouseHover(object sender, EventArgs e)
         {
             btn_start.Image = Properties.Resources.PixelCarRacerLogo;
-            System.Media.SoundPlayer sound = new System.Media.SoundPlayer(@"C:\Users\user\source\repos\RacingCarApp\Resources\button-3.wav");
+            System.Media.SoundPlayer sound = new System.Media.SoundPlayer(@"Resources\button-3.wav");
             sound.Play();
         }
 
         private void btn_option_MouseHover(object sender, EventArgs e)
         {
             btn_option.Image = Properties.Resources.Settingbtn;
-            System.Media.SoundPlayer sound = new System.Media.SoundPlayer(@"C:\Users\user\source\repos\RacingCarApp\Resources\button-09.wav");
+            System.Media.SoundPlayer sound = new System.Media.SoundPlayer(@"Resources\button-09.wav");
             sound.Play();
         }
 
         private void btn_exit_MouseHover(object sender, EventArgs e)
         {
             btn_exit.Image = Properties.Resources.exitsign;
-            System.Media.SoundPlayer sound = new System.Media.SoundPlayer(@"C:\Users\user\source\repos\RacingCarApp\Resources\button-10.wav");
+            System.Media.SoundPlayer sound = new System.Media.SoundPlayer(@"Resources\button-10.wav");
             sound.Play();
         }
 
